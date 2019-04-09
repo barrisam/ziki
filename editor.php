@@ -27,6 +27,7 @@
  
   <!-- Include Editor JS files. -->
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/froala-editor@2.5.1/js/froala_editor.pkgd.min.js"></script>
+  <h1 class="blog-details-logo-holder"><a href = "timeline.php">Homepage</a></h1>
   <div class="main-content">
     <form>
       <input class="post-title" type="text" placeholder="post title">

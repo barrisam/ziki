@@ -14,7 +14,9 @@
 </head>
 <body>
     <div class="container-fluid">
-        <div class="row">
+    <div class="row">
+            <img class="header-img" src="assets/img/header.png" >
+        </div>
 
             <div class="col-md-3 d-flex flex-column align-items-center profile-section">
                 <div class="profile-draft">

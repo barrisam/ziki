@@ -80,7 +80,7 @@ require_once './authentication/auth/googleinit.php';
                         </defs>
                     </svg>
 
-                    <span><a href="<?php echo $glogin_url;?>">Google</a></span>
+                   <span><a href="<?php echo $glogin_url;?>">Google</a></span> 
                     
                     
                 </button>
